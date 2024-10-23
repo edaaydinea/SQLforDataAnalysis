@@ -1,52 +1,35 @@
-# 📚 [Book Title]
+# 📚 SQL for Data Analysis  - Advanced Techniques Data into Insights
 
-Welcome to the repository for **[Book Title]** by **[Author Name]**! This repository contains notes, summaries, and exercise solutions to help you understand and apply the concepts presented in the book.
+Welcome to the repository for **SQL for Data Analysis  - Advanced Techniques Data into Insights** by **Cathy Tanimura**! This repository contains notes, summaries, and exercise solutions to help you understand and apply the concepts presented in the book.
 
 ## 📖 Overview
 
-- **Author:** [Author Name]
-- **Published:** [Year]
-- **Description:** A brief overview of the book and its key themes or topics.
+- **Author:** Cathy Tanimura
+- **Published:** 2021
+- **Description:** This book is a comprehensive guide to SQL for data analysis, covering advanced techniques for transforming data into insights. It covers topics such as data modeling, advanced SQL queries, window functions, and more.
 
 ## 📝 Notes
 
 This section contains organized notes from the book, summarizing key concepts and important points.
 
-### Chapter 1: [Chapter Title]
-- Key concepts from Chapter 1.
-- Important definitions or theories.
+### Chapter 1: Analysis with SQL
 
-### Chapter 2: [Chapter Title]
-- Key concepts from Chapter 2.
-- Important definitions or theories.
+### Chapter 2: Preparing Data for Analysis
 
-*(Continue for additional chapters as needed)*
+### Chapter 3: Time Series Analysis
 
-## 💡 Exercise Solutions
+### Chapter 4: Cohort Analysis
 
-This section includes solutions to exercises from the book, organized by chapter.
+### Chapter 5: Text Analysis
 
-### Chapter 1 Exercises
-- **Exercise 1.1:** Description of the exercise.
-  - **Solution:** Step-by-step solution.
+### Chapter 6: Anomaly Detection
 
-- **Exercise 1.2:** Description of the exercise.
-  - **Solution:** Step-by-step solution.
+### Chapter 7: Experiment Analysis
 
-### Chapter 2 Exercises
-- **Exercise 2.1:** Description of the exercise.
-  - **Solution:** Step-by-step solution.
+### Chapter 8: Creating Complex Data Sets for Analysis
 
-*(Continue for additional chapters as needed)*
+### Chapter 9: Conclusion
 
-## 🤝 Contributing
-
-Contributions are welcome! If you have any additional notes, solutions, or resources to share, please create a pull request. 
-
-1. Fork the repository.
-2. Create a new branch (e.g., `feature/your-feature`).
-3. Make your changes.
-4. Submit a pull request.
 
 ## 📄 License
 
