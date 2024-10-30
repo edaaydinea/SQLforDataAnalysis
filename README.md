@@ -35,11 +35,24 @@ This section contains organized notes from the book, summarizing key concepts an
 
 ### Chapter 6: Anomaly Detection
 
+- [create_earthquake_table.sql](./Chapter6/create_earthquake_table.sql): SQL script to create a table for earthquake data.
+- [anomaly_detection_queries.sql](./Chapter6/anomaly_detection_queries.sql): SQL script for anomaly detection queries.
+
 ### Chapter 7: Experiment Analysis
+
+- [create_exp_tables.sql](./Chapter7/create_exp_tables.sql): SQL script to create tables for experiment data.
+- [experiment_analysis.sql](./Chapter7/experiment_analysis.sql): SQL script for experiment analysis.
 
 ### Chapter 8: Creating Complex Data Sets for Analysis
 
+- [create_videogame_sales.sql](./Chapter8/create_videogame_sales.sql): SQL script to create a table for video game sales data.
+- [complex.dataset_queries.sql](./Chapter8/complex.dataset_queries.sql): SQL script for complex data set queries.
+
+
 ### Chapter 9: Conclusion
+
+-[code.sql](./Chapter9/code.sql): SQL script for the final project.
+
 
 
 ## 📄 License
